@@ -1,3 +1,4 @@
 # Spotify-Dashboard
 
-![Spotify](https://github.com/user-attachments/assets/5328fadd-01d7-444b-88aa-857b496fb079)
+![Spotify](https://github.com/user-attachments/assets/745c8b93-93f5-4b4d-86f8-dd037cc94b9d)
+
